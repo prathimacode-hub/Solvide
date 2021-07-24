@@ -1,2 +1,1 @@
-# Solvide
-Solvide - Excel your Learning Ride
+# Solvide - Excel your Learning Ride
