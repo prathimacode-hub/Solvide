@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Smartrizer</title>
+    <title>Solvide</title>
     <link href="../static/global.css" rel="stylesheet" type="text/css">
 </head>
 
@@ -13,13 +13,13 @@
     <div class="navcontainer">
         <nav>
             <a href="/">Home</a>
-            <a href="/summarizer">Summarizer</a>
-            <a href="/script">ReciteIt</a>
+            <a href="/solvide">Solvde</a>
+            <a href="/script">UtterIt</a>
         </nav>
     </div>
     <br>
     <div class="opening">
-        <h1 class="title">Hear your notes and recite it by entering the script down here!</h1>
+        <h1 class="title">Hear your notes and utter it by entering the script down here!</h1>
         <form action="{{ url_for('readout') }}" method="post" id="form">
             <textarea name="text" class="textinput"></textarea>
             <input type="submit" class="homebutton" id="entersummarize">
