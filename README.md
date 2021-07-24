@@ -12,7 +12,7 @@ This project helps in excelling the learning ride. In short, students especially
 
 ## What I had done
 
-I had built using python, html and css and also deployed flask and integrated front end development with the backend code. It smartens up the learnings especially where students aren't aware of the concepts, lowacess to books and wants to grasp the knowledge as much as they could.
+I had built using python, html and css and also deployed flask and integrated front end development with the backend code. It smartens up the learnings especially where students aren't aware of the concepts, low acess to books and wants to grasp the knowledge as much as they could. I had also used NLP, TensorFlow and API's involved to gain links about keywords and notes
 
 ## ISSUE
 
@@ -32,8 +32,8 @@ Proud of doing so much in such a less frame of time. Never thought I would come 
 
 ## My Learnings 
 
-Learnt about flask, writing html and css codes, enabling styling, providing the access to the features, merging the features properly. It was a nerve wracking to finish it off.
+Learnt about flask, writing html and css codes, enabling styling, providing the access to the features, merging the features properly. It was a nerve wracking time frame to finish it off. Wish I had more time to make it finesse and also scratch more of the webapp deeply with extra add-ons needed. 
 
 ## Next Step to Solvide
 
-I would add up more features that would benefit students in the learning habits.
+I would add up more features that would benefit students in their study habits and also make their learn more easier.
