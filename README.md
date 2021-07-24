@@ -37,3 +37,7 @@ Learnt about flask, writing html and css codes, enabling styling, providing the 
 ## Next Step to Solvide
 
 I would add up more features that would benefit students in their study habits and also make their learn more easier.
+
+## Author
+
+Prathima Kadari
