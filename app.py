@@ -24,9 +24,9 @@ def home():
     return render_template('index.html')
 
 
-@app.route('/summarizer')
+@app.route('/solvide')
 def test():
-    return render_template('summarizer.html')
+    return render_template('solvide.html')
 
 
 @app.route('/script')
