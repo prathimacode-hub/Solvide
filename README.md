@@ -4,7 +4,7 @@ Note : At last moment, my devices got hanged, due to which I couldn't provide a 
 
 ## Inspiration
 
-Inspiration from slow progess in education sector
+Inspired from slow progess in education sector
 
 ## My project
 
