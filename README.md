@@ -12,7 +12,15 @@ This project helps in excelling the learning ride. In short, students especially
 
 ## What I had done
 
-I had built using python, html and css and also deployed flask and integrated front end development with the backend code. It smartens up the learnings especially where students aren't aware of the concepts, lowacess to books and wants to grasp the knowledge as much as they could. 
+I had built using python, html and css and also deployed flask and integrated front end development with the backend code. It smartens up the learnings especially where students aren't aware of the concepts, lowacess to books and wants to grasp the knowledge as much as they could.
+
+## ISSUE
+
+The pressing issue of education sector is taken here. Especially in MENA regions, there's a less feasibility to quality education and also no proper mentor to guide them especially when they are confined or restricted in conflict areas.
+
+## SOLUTION
+
+This App would be a best fit solution to guide students and educate them in a right way so that they could enhance their learning ride, understand the concepts well, be their own study partner to excel in their subjects. The features added are a huge plus to the budding minds. 
 
 ## Challenges
 
